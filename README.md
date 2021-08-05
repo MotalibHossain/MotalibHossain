@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Motalib Hossain</h1>
 <p align="center">I am a professional Frontend developer. I am working as a Frontend developer and Completed some project for local client. I am expert on modern responsive website Design, WordPress website design and customization.</p>
 
- <img text-align="center"   align="right" width="400px" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" alt="motalibhossain" /> 
+ <img text-align="center"   align="right" width="400px" src="https://github.com/MotalibHossain/MotalibHossain/blob/main/code.gif?raw=true" alt="motalibhossain" /> 
 
 - 🌱 I’m currently learning **Django, Python ,React etc.**
 
