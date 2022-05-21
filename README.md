@@ -1,9 +1,9 @@
 <!-- ![MasterHead](https://github.com/MotalibHossain/MotalibHossain/blob/main/motaibhossain.jpg) -->
 <h1 align="center">Hi :wave:, I'm Motalib Hossain</h1>
-<p align="left">I am a Full-stack developer with professional expertise in the field of web development with python and javascript. I have a strong passion for web technologie.I love to teach people about web technology and ICT. I am a Full-stack developer with professional expertise in the field of web development with python and javascript. I have a strong passion for web technologie.I love to teach people about web technology and ICT.</p>
-<img text-align="justify"   align="right" width="300px" src="https://github.com/MotalibHossain/MotalibHossain/blob/main/code.gif?raw=true" alt="motalibhossain" /> 
+<p align="left">I am a Full-stack developer with professional expertise in the field of web development with python and javascript. I have a strong passion for web technologie.I love to teach people about web technology and ICT.</p>
+<img align="right" width="400px" src="https://github.com/MotalibHossain/MotalibHossain/blob/main/code.gif?raw=true" alt="motalibhossain" /> 
 
-- 🌱 I’m currently learning **Django, Python ,React etc.**
+<!-- - 🌱 I’m currently learning **Django , Python ,React etc.** -->
 
 - 👨‍💻 All of my projects are available at [https://motalibhossain.github.io/portfolio/](https://motalibhossain.github.io/portfolio/)
 
@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://motalibhossain.github.io/portfolio/](https://motalibhossain.github.io/portfolio/)
 <p>❤️ Programming | 🖤 Music | 💙 Traveling</p>
 
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/motalibhossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="motalibhossain" height="30" width="40" /></a>
@@ -49,20 +49,20 @@
 				<img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 				<br>jQuery
 			</td>
-		</tr>
-		<tr>
+<!-- 		</tr>
+		<tr> -->
 			<td align="center">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="64px"/>
 				<br>HTML
 			</td>
-			<td align="center">
+<!-- 			<td align="center">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="64px"/>
 				<br>php
 			</td>
 			<td align="center">
 				<img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 				<br>Docker
-			</td>
+			</td> -->
 			<td align="center">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"  height="64px"/>
 				<br>mongodb
