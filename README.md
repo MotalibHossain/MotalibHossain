@@ -1,6 +1,6 @@
 <!-- ![MasterHead](https://github.com/MotalibHossain/MotalibHossain/blob/main/motaibhossain.jpg) -->
 <h1 align="center">Hi :wave:, I'm Motalib Hossain</h1>
-<p align="justify">I am a Full-stack developer with professional expertise in the field of web development with python and javascript. I have a strong passion for web technologie.I love to teach people about web technology and ICT.</p>
+<p align="left">I am a Full-stack developer with professional expertise in the field of web development with python and javascript. I have a strong passion for web technologie.I love to teach people about web technology and ICT.</p>
 
  <img text-align="justify"   align="right" width="400px" src="https://github.com/MotalibHossain/MotalibHossain/blob/main/code.gif?raw=true" alt="motalibhossain" /> 
 
