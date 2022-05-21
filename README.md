@@ -1,8 +1,7 @@
 <!-- ![MasterHead](https://github.com/MotalibHossain/MotalibHossain/blob/main/motaibhossain.jpg) -->
 <h1 align="center">Hi :wave:, I'm Motalib Hossain</h1>
-<p align="left">I am a Full-stack developer with professional expertise in the field of web development with python and javascript. I have a strong passion for web technologie.I love to teach people about web technology and ICT.</p>
-
- <img text-align="justify"   align="right" width="400px" src="https://github.com/MotalibHossain/MotalibHossain/blob/main/code.gif?raw=true" alt="motalibhossain" /> 
+<p align="left">I am a Full-stack developer with professional expertise in the field of web development with python and javascript. I have a strong passion for web technologie.I love to teach people about web technology and ICT. I am a Full-stack developer with professional expertise in the field of web development with python and javascript. I have a strong passion for web technologie.I love to teach people about web technology and ICT.</p>
+<img text-align="justify"   align="right" width="300px" src="https://github.com/MotalibHossain/MotalibHossain/blob/main/code.gif?raw=true" alt="motalibhossain" /> 
 
 - 🌱 I’m currently learning **Django, Python ,React etc.**
 
@@ -14,6 +13,7 @@
 
 - 📄 Know about my experiences [https://motalibhossain.github.io/portfolio/](https://motalibhossain.github.io/portfolio/)
 <p>❤️ Programming | 🖤 Music | 💙 Traveling</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
