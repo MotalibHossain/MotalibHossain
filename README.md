@@ -1,19 +1,24 @@
 <!-- ![MasterHead](https://github.com/MotalibHossain/MotalibHossain/blob/main/motaibhossain.jpg) -->
 <h1 align="center">Hi :wave:, I'm Motalib Hossain</h1>
 <p align="left">I am a Full-stack developer with professional expertise in the field of web development with python and javascript. I have a strong passion for web technologie.I love to teach people about web technology and ICT.</p>
-<img align="right" width="400px" src="https://github.com/MotalibHossain/MotalibHossain/blob/main/code.gif?raw=true" alt="motalibhossain" /> 
+
 
 <!-- - 🌱 I’m currently learning **Django , Python ,React etc.** -->
+<table width="100%">
+	<tr>
+		<td width="60%">
+👨‍💻 All of my projects are available at <a href="https://motalibhossain.github.io/portfolio/">Motalib Hossain</a>
 
-- 👨‍💻 All of my projects are available at [https://motalibhossain.github.io/portfolio/](https://motalibhossain.github.io/portfolio/)
+💬 Ask me about **Website Design.**
 
-- 💬 Ask me about **Website Design.**
+📫 How to reach me **motalibhossainrbk33@gmail.com**
 
-- 📫 How to reach me **motalibhossainrbk33@gmail.com**
-
-- 📄 Know about my experiences [https://motalibhossain.github.io/portfolio/](https://motalibhossain.github.io/portfolio/)
+📄 Know about my experiences 👉 [Here..](https://motalibhossain.github.io/portfolio/)
 <p>❤️ Programming | 🖤 Music | 💙 Traveling</p>
-
+		</td>
+		<td width="40%"><img width="400px" src="https://github.com/MotalibHossain/MotalibHossain/blob/main/code.gif?raw=true" alt="motalibhossain" /></td>
+	</tr>
+</table>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
