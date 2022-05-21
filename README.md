@@ -77,6 +77,6 @@
 			</td>
 		</tr>
 	</table>
-<p><img align="left" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=motalibhossain&show_icons=true&locale=en&layout=compact" alt="motalibhossain" /></p>
+<p><img align="left" width="390px" src="https://github-readme-stats.vercel.app/api/top-langs?username=motalibhossain&show_icons=true&locale=en&layout=compact" alt="motalibhossain" /></p>
 
 <p >&nbsp;<img align="right" width="480px" src="https://github-readme-stats.vercel.app/api?username=motalibhossain&show_icons=true&locale=en" alt="motalibhossain" /></p>
