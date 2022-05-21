@@ -79,4 +79,4 @@
 	</table>
 <p><img align="left" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs?username=motalibhossain&show_icons=true&locale=en&layout=compact" alt="motalibhossain" /></p>
 
-<p >&nbsp;<img align="right" width="460px" src="https://github-readme-stats.vercel.app/api?username=motalibhossain&show_icons=true&locale=en" alt="motalibhossain" /></p>
+<p >&nbsp;<img align="right" width="440px" src="https://github-readme-stats.vercel.app/api?username=motalibhossain&show_icons=true&locale=en" alt="motalibhossain" /></p>
