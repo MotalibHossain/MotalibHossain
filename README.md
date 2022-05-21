@@ -1,8 +1,8 @@
-![MasterHead](https://github.com/MotalibHossain/MotalibHossain/blob/main/motaibhossain.jpg)
-<h1 align="center">Hi, I'm Motalib Hossain</h1>
-<p align="center">I am a professional Frontend developer. I am working as a Frontend developer and Completed some project for local client. I am expert on modern responsive website Design, WordPress website design and customization.</p>
+<!-- ![MasterHead](https://github.com/MotalibHossain/MotalibHossain/blob/main/motaibhossain.jpg) -->
+<h1 align="center">Hi :wave:, I'm Motalib Hossain</h1>
+<p align="justify">I am a Full-stack developer with professional expertise in the field of web development with python and javascript. I have a strong passion for web technologie.I love to teach people about web technology and ICT.</p>
 
- <img text-align="center"   align="right" width="400px" src="https://github.com/MotalibHossain/MotalibHossain/blob/main/code.gif?raw=true" alt="motalibhossain" /> 
+ <img text-align="justify"   align="right" width="400px" src="https://github.com/MotalibHossain/MotalibHossain/blob/main/code.gif?raw=true" alt="motalibhossain" /> 
 
 - 🌱 I’m currently learning **Django, Python ,React etc.**
 
