@@ -9,7 +9,7 @@
 		<td width="60%">
 👨‍💻 All of my projects are available at <a href="https://motalibhossain.github.io/portfolio/">Motalib Hossain</a>
 
-💬 Ask me about **Website Design.**
+💬 Ask me about **web technologies.**
 
 📫 How to reach me **motalibhossainrbk33@gmail.com**
 
