@@ -1,5 +1,3 @@
-<!-- ![MasterHead](https://github.com/MotalibHossain/MotalibHossain/blob/main/motaibhossain.jpg) -->
-<h1 align="center">Hi :wave:, I'm Motalib Hossain</h1>
 <p align="left">I am a full-stack developer with a passion and expertise in front-end development, including HTML5, CSS3, JavaScript, jQuery, and React. I also have a solid understanding of backend technologies such as Python and Django. I am passionate about web technology and enjoy teaching others about web development and ICT.</p>
 
 
